@@ -1,4 +1,4 @@
-import NumeroDisplay from "@/components/NumeroDisplay"
+import NumeroDisplay from "../../components/NumeroDisplay"
 import { useState } from "react"
 
 export default function contador() {
