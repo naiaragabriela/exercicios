@@ -1,3 +1,4 @@
+import React from "react";
 import Pessoa from "../../components/Pessoa";
 
 export default function exemploTS() {
